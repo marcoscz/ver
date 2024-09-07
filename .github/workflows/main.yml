@@ -41,7 +41,7 @@ jobs:
 
       - name: Publish .NET
 
-        run: dotnet publish teste02.sln -c:Release -o docs --nologo
+        run: dotnet publish CompanyCrudBlazor.sln -c:Release -o docs --nologo
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
