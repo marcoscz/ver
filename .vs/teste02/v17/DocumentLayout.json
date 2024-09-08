@@ -1,12 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\_Projetos\\ver\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC5B919-D1CF-4039-8C23-DBED031D55ED}|teste02.csproj|c:\\_projetos\\ver\\teste02.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BCC5B919-D1CF-4039-8C23-DBED031D55ED}|teste02.csproj|solutionrelative:teste02.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "teste02",
+              "DocumentMoniker": "C:\\_Projetos\\ver\\teste02.csproj",
+              "RelativeDocumentMoniker": "teste02.csproj",
+              "ToolTip": "C:\\_Projetos\\ver\\teste02.csproj",
+              "RelativeToolTip": "teste02.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-08T02:34:45.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
